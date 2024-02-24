@@ -1,9 +1,5 @@
 # proyecto_final
-Si desean pueden agregar sus nombres con sus usuarios :).
 
-asi nos podremos encontrar mas facilmente.
+## Introduccion
 
-Oscar = Imperius89.
-
-
-wewrty
+El objetivo de este proyecto es desarrollar una aplicación web que funcione como una red social para desarrolladores de software, utilizando las tecnologías más adecuadas y siguiendo las mejores prácticas de diseño y desarrollo. El proyecto se dividirá en las siguientes fases: análisis, diseño, desarrollo, pruebas y lanzamiento.
